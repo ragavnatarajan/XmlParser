@@ -1,0 +1,7 @@
+C:\ReveraGit\Samples\SerkoApi\ParserServiceTests\bin\Debug\ParserServiceTests.dll
+C:\ReveraGit\Samples\SerkoApi\ParserServiceTests\bin\Debug\ParserServiceTests.pdb
+C:\ReveraGit\Samples\SerkoApi\ParserServiceTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\ReveraGit\Samples\SerkoApi\ParserServiceTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\ReveraGit\Samples\SerkoApi\ParserServiceTests\obj\Debug\ParserServiceTests.csprojResolveAssemblyReference.cache
+C:\ReveraGit\Samples\SerkoApi\ParserServiceTests\obj\Debug\ParserServiceTests.dll
+C:\ReveraGit\Samples\SerkoApi\ParserServiceTests\obj\Debug\ParserServiceTests.pdb

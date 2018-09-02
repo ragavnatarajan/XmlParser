@@ -1,0 +1,5 @@
+C:\ReveraGit\Samples\SerkoApi\IParserService\obj\Debug\IParserService.csprojResolveAssemblyReference.cache
+C:\ReveraGit\Samples\SerkoApi\IParserService\bin\Debug\IParserService.dll
+C:\ReveraGit\Samples\SerkoApi\IParserService\bin\Debug\IParserService.pdb
+C:\ReveraGit\Samples\SerkoApi\IParserService\obj\Debug\IParserService.dll
+C:\ReveraGit\Samples\SerkoApi\IParserService\obj\Debug\IParserService.pdb

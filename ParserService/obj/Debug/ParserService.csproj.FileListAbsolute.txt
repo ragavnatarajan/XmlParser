@@ -1,0 +1,7 @@
+C:\ReveraGit\Samples\SerkoApi\ParserService\bin\Debug\ParserService.dll
+C:\ReveraGit\Samples\SerkoApi\ParserService\bin\Debug\ParserService.pdb
+C:\ReveraGit\Samples\SerkoApi\ParserService\bin\Debug\IParserService.dll
+C:\ReveraGit\Samples\SerkoApi\ParserService\bin\Debug\IParserService.pdb
+C:\ReveraGit\Samples\SerkoApi\ParserService\obj\Debug\ParserService.csprojResolveAssemblyReference.cache
+C:\ReveraGit\Samples\SerkoApi\ParserService\obj\Debug\ParserService.dll
+C:\ReveraGit\Samples\SerkoApi\ParserService\obj\Debug\ParserService.pdb
