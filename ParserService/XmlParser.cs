@@ -22,6 +22,7 @@ namespace ParserService
 
         private XElement GetXmlDocByTag(string content, string tagName)
         {
+            //comments
             Regex regex = new Regex($@"<{tagName}>([\s\S]*)<\/{tagName}>");
             var match = regex.Match(content);
             return XElement.Parse(match.ToString());
